@@ -1,0 +1,5 @@
+app.jar
+target/*
+.vscode/*
+src/test/*
+result.*
